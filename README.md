@@ -5,7 +5,7 @@ This project is created to practise basic and advanced concepts of ReactJs while
 ###Install and Build
 
 ```
-npm install            // To install dependencies
+npm install        // To install dependencies
 npm start          // Build the project and start the server at http://localhost:8080/webpack-dev-server/
 ```
 
